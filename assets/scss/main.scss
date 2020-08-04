@@ -6,8 +6,9 @@ assets index.html
 sass --watch assets/scss/main.scss:assets/css/style.css 
 */;
 //abstracts
-@import "abstracts/mixins";
 @import "abstracts/variables";
+@import "abstracts/mixins";
+
 
 //vendor
 @import "vendor/bootstrap4.5/bootstrap";
