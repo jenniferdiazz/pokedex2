@@ -10,7 +10,6 @@ $(function () {
         if(e.which==13){
             BuscarPersonaje(); 
         } 
-        
       });
 
 });
